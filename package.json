@@ -1,0 +1,11 @@
+{
+  "name": "timestamp-microservice",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "repository": "",
+  "author": "Yi Jie Tan",
+  "dependencies": {
+    "express": "^3.2.6",
+  }
+}
